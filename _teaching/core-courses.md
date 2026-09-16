@@ -2,6 +2,7 @@
 title: "Core Courses"
 excerpt: "Graduate Courses, Nanjing University, 2026"
 collection: teaching
+date: 2026-09-01
 ---
 Fall 2026
 

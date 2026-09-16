@@ -7,6 +7,7 @@ venue: "Nanjing University"
 date: 2026-09-01
 location: "Nanjing, China"
 excerpt: 'Graduate Courses, Nanjing University, 2026'
+excerpt_separator: ""
 ---
 ## Course Overview
 This is the detailed introduction for graduate core courses at Nanjing University.

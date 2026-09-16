@@ -23,7 +23,7 @@ repository               : "wangyujie71/wangyujie71.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile123.png"
+  avatar           : "profile.png"
   name             : "Wang Yujie"
   pronouns         : # example: "she/her"  
   bio              : "Master student at Nanjing University, major in Journalism and Communication."

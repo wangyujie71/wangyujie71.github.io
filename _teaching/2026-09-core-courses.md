@@ -1,25 +1,16 @@
 ---
 title: "Core Courses"
+excerpt: "Graduate Courses, Nanjing University, 2026"
 collection: teaching
-type: "Graduate Courses"
-permalink: /teaching/core-courses
-venue: "Nanjing University"
-date: 2026-09-01
-location: "Nanjing, China"
-excerpt: 'Graduate Courses, Nanjing University, 2026'
-excerpt_separator: ""
 ---
-## Course Overview
-This is the detailed introduction for graduate core courses at Nanjing University.
+Fall 2026
 
-### Course Details
-#### Introduction to Computational Communication
-This course introduces the theoretical foundation of computational communication, including web technology, data collection, quantitative analysis, and computational research paradigms in communication studies.
+### Introduction to Computational Communication
+Graduate core course. Covers web technology, data analysis and research methods in computational communication.
 
-#### Digital Marketing Communication
-This course focuses on digital marketing theories, consumer behavior, social media operation, case analysis and marketing campaign design.
+### Digital Marketing Communication
+Covers multiple marketing models. Focuses on case analysis and marketing planning.
 
-### Learning Outcomes
-- Master basic skills of web and data analysis
-- Understand multiple digital marketing models
-- Be able to complete marketing planning and case research
+### Research Interests
+Digital marketing models and applications
+Media technology and social change
